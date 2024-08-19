@@ -1,0 +1,33 @@
+body{
+    font-family: 'Albertus MT Std Regular', 'Luxorious Roman', sans-serif;
+    background-color: #C2C2C2;
+}
+
+iframe{
+    height:400px;
+}
+
+.redClass{
+    background: #C8102E;
+}
+
+.yellowClass{
+    background: #F6EB61;
+}
+
+.greenClass{
+    background: #00B2A9;
+}
+
+.greyClass{
+    background: #C2C2C2;
+}
+
+.blackClass{
+    background: #000000;
+    color: #FFFFFF;
+}
+
+.whiteClass{
+    background:#FFFFFF;
+}
